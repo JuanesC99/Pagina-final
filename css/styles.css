@@ -1,0 +1,22 @@
+.container-fluid {
+  background-color: green;
+}
+
+a:hover {
+  color: red;
+  background-color: blue;
+}
+
+body {
+  background-image: url(../img/TheEye1_2560x1600.jpg);
+  background-size: 170vh;
+  background-repeat: no-repeat;
+}
+
+.card-body {
+  align-items: center;
+  justify-content: center;
+  background-color: red;
+}
+
+/*# sourceMappingURL=styles.css.map */
